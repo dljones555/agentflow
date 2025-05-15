@@ -1,7 +1,7 @@
 # agentflow
 AgentFlow is a DSL for AI agents democratizing non-developer tool, process and UI creation in the spirit of tools like Excel Macros, Tableau, and Zapier.
 
-AI agents running everything. Code running across companies handling various tasks: handling customer service, reading documents, completing applications, completing work and projects that weren't possible to get done before.
+AI agents running everything. Code running across companies handling various tasks: answer customer service requests, reading documents, completing applications, completing work and projects that weren't possible to get done before.
 
 - Is Python the only way? Will it scale and be maintainable for the vision of scores of agents helping with work?
 - How do non-developers contribute? analysts, project managers, power users, quality assurance people, SME's
