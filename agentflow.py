@@ -1,7 +1,8 @@
 # Sample SEC doc analysis tool of today: https://github.com/vishukla/agentvest/blob/main/agents/sec_filings_agent.py
-# - uses standard tooling of today.
+# - Uses standard tooling of today.
 #
 # Another option with maturity relative today:
+#
 # https://docs.oap.langchain.com/ - langchain openagent platform and langraph, lots of traction
 #
 # But future looks more "democratized": think Excel macros, Tableau, apier
