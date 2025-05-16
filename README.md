@@ -1,5 +1,5 @@
 # agentflow
-AgentFlow is a DSL for AI agents democratizing non-developer tool, process and UI creation in the spirit of tools like Excel Macros, Tableau, and Zapier.
+AgentFlow is a DSL for AI agents democratizing non-developer tool, workflow and UI creation in the spirit of tools like Excel Macros, Tableau, and Zapier.
 
 AI agents running everything. Code running across companies handling various tasks: answering customer service requests, reading documents, completing applications, completing work and projects that weren't possible to get done before.
 
